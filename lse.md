@@ -2,6 +2,4 @@
 layout: default
 ---
 
-(index)
-
-## Hola!
+## Lengua de signos
